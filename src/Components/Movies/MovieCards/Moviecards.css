@@ -1,0 +1,15 @@
+.moviescontainer{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+.movieCard{
+    margin: 40px;
+    width:25vw;
+}
+.ratingCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:2px
+}

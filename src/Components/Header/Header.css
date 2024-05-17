@@ -1,0 +1,57 @@
+.Headerlogo{
+    width:40px;
+    height: 40px;
+    border-radius: 40px;
+    /* margin-bottom: 15px; */
+}
+.searchbar{
+    width:800px;
+    height:30px;
+    margin-left: 20px;
+}
+.HeaderContainer1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:20px;
+    padding: 20px;
+    background-color:#e76f51;
+}
+.continer{
+    display: flex;
+    height:20px;
+    /* margin:20px */
+}
+.places{
+    margin-right: 20px;
+}
+.HeaderContainer2{
+    display: flex;
+    background-color: rgb(213, 210, 210);
+    align-items: center;
+    justify-content: space-between;
+    height:20px;
+    margin:20px;
+    border-radius: 3px;
+    border-width: 3.5px;
+    border-color: white;
+    border-style:double;
+}
+.firstpart{
+    display: flex;
+    margin-left:25px;
+}
+.secondpart{
+    display: flex;
+    margin-right: 20px;
+}
+.clickabledetails{
+    padding:10px;
+    font-size: 10px;
+    font-family:"Arial";
+    font-weight: 10px;
+    padding-left: 10px;
+    margin:10px;
+    color: black;
+    
+}
